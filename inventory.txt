@@ -1,0 +1,74 @@
+Wooden crates | 150
+Plastic bins | 300
+Metal containers | 200
+Cardboard boxes | 500
+Glass jars | 120
+Steel drums | 50
+Fabric sacks | 400
+Storage pallets | 250
+Shipping containers | 75
+Stackable trays | 600
+Wooden shelves | 80
+Plastic tubs | 450
+Cloth bags | 350
+Ceramic pots | 100
+Mesh baskets | 220
+Plastic baskets | 300
+Wire racks | 250
+Wooden chests | 200
+Storage crates | 150
+Paperboard cartons | 600
+Metal boxes | 220
+Fabric totes | 450
+Glass bottles | 130
+Wooden bins | 500
+Stackable boxes | 300
+Plastic drawers | 200
+Steel storage bins | 180
+Wooden trunks | 100
+Metal filing cabinets | 75
+Large totes | 350
+Cloth hampers | 400
+Plastic bags | 500
+Mesh sacks | 600
+Wooden pallets | 250
+Plastic storage drawers | 350
+Wooden crates with lids | 150
+Leather storage boxes | 80
+Iron barrels | 60
+Foldable storage bins | 400
+PVC containers | 250
+Glass vases | 120
+Wicker baskets | 450
+Metal buckets | 200
+Tupperware containers | 500
+Cardboard cartons | 400
+Wooden organizers | 100
+Vacuum-sealed bags | 350
+Plastic totes with lids | 500
+Fabric storage bins | 400
+Foldable plastic crates | 250
+Plastic jars | 200
+Wire mesh baskets | 150
+Steel cabinets | 100
+Acrylic storage boxes | 300
+Wooden drawers | 80
+Canvas storage bags | 400
+Plastic storage containers | 250
+Wooden wine crates | 50
+Plastic storage baskets | 450
+Steel mesh trays | 300
+Wooden crates with dividers | 120
+Paper storage boxes | 500
+Linen storage baskets | 200
+Leather storage bags | 100
+Wooden crates with handles | 75
+Rotating storage trays | 400
+Resin storage containers | 150
+Fabric storage cubes | 350
+Plastic bag dispensers | 200
+Metal shelving units | 250
+Collapsible crates | 500
+Bamboo baskets | 450
+Wooden spice racks | 100
+Steel shelving units | 250
