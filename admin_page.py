@@ -1,4 +1,5 @@
 from tkinter import *
+
 from login import LoginPage
 
 class AdminPage:
